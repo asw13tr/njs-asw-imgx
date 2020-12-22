@@ -1,0 +1,23 @@
+{
+  "name": "atabasch-image-manipulation",
+  "version": "1.0.0",
+  "description": "Görsel dosyaları gönderilen parametrelere göre anlık olarak düzenleme işlemleri yapan basit bir nodejs modülü.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jimp": "^0.16.1"
+  },
+  "keywords": [
+    "atabasch",
+    "image",
+    "manipulation",
+    "image",
+    "resize",
+    "image",
+    "crop"
+  ],
+  "author": "Furkan Atabaş",
+  "license": "ISC"
+}
